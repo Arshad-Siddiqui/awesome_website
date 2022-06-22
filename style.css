@@ -38,6 +38,7 @@ header, footer {
 nav {
     display: flex;
     align-items: center;
+    margin-bottom: 80px;
 }
 nav a, .secondary-text {
     font-size: 18px;
