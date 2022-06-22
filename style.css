@@ -38,7 +38,9 @@ header, footer {
 nav {
     display: flex;
     align-items: center;
-    margin-bottom: 80px;
+    padding-top: 15px;
+    margin: 0px 100px 100px;
+
 }
 nav a, .secondary-text {
     font-size: 18px;
@@ -49,9 +51,6 @@ a {
     text-decoration: none;
 }
 
-nav .first-link {
-    margin-left: auto;
-}
 
 .flex-container {
     display: flex;
@@ -72,4 +71,10 @@ h1 {
 
 .hero-text {
     max-width: 300px;
+}
+
+.links {
+    display: flex;
+    gap: 10px;
+    margin-left: auto;
 }
