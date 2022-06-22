@@ -9,3 +9,8 @@ header, footer {
 .signup {
     background-color: #3882f6;
 }
+
+.logo-text {
+    font-size: 24px;
+    color: #F9FAF8;
+}
