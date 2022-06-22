@@ -44,3 +44,8 @@ nav a {
 nav .first-link {
     margin-left: auto;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
