@@ -26,6 +26,7 @@ header, footer {
 
 #quote-credit {
     margin-left: 400px;
+    font-weight: 900px;
 }
 
 .signup {
@@ -56,19 +57,21 @@ a {
 
 .flex-container {
     display: flex;
-    justify-content: center;
+    justify-content:center;
+    gap: 40px;
     
 }
 
 h1 {
     font-size: 38px;
-    font-weight: extra-bold;
+    font-weight: 900px;
     color: #F9FAF8;
 }
 
 .placeholder {
     background-color: grey;
-    padding: 80px;
+    color: white;
+    padding-top: 130px;
 }
 
 .hero-text {
@@ -79,4 +82,10 @@ h1 {
     display: flex;
     gap: 10px;
     margin-left: auto;
+}
+
+button {
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: #E5E7EB;
 }
