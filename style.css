@@ -2,8 +2,9 @@ header, footer {
     background-color: #1F2937;
 }
 
-.quote {
+.quote-block {
     background-color: #E5E7EB;
+    padding: 100px;
 }
 
 .signup {
