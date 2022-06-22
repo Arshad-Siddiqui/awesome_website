@@ -35,9 +35,12 @@ nav {
     display: flex;
     align-items: center;
 }
-nav a {
+nav a, .secondary-text {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+a {
     text-decoration: none;
 }
 
@@ -48,4 +51,10 @@ nav .first-link {
 .flex-container {
     display: flex;
     justify-content: center;
+}
+
+h1 {
+    font-size: 38px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
 }
