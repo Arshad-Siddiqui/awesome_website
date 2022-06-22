@@ -11,6 +11,8 @@ header, footer {
 
 .quote {
     max-width: 700px;
+    font-size: 36px;
+    font-style: italic;
 
 }
 
