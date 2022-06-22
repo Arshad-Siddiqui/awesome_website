@@ -6,7 +6,9 @@ header, footer {
     background-color: #E5E7EB;
     padding: 100px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .quote {
@@ -14,6 +16,10 @@ header, footer {
     font-size: 36px;
     font-style: italic;
 
+}
+
+#quote-credit {
+    margin-left: 400px;
 }
 
 .signup {
