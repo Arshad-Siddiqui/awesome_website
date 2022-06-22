@@ -51,10 +51,15 @@ nav .first-link {
 .flex-container {
     display: flex;
     justify-content: center;
+    align-items: stretch;
 }
 
 h1 {
     font-size: 38px;
     font-weight: extra-bold;
     color: #F9FAF8;
+}
+
+.placeholder {
+    background-color: grey;
 }
