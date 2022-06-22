@@ -95,5 +95,20 @@ button {
 footer {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
+}
+
+.boxes {
+    display:flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.box {
+    padding: 40px;
+    border: 5px solid#3882f6;
+}
+
+.random-information h2 {
+    text-align: center;
 }
