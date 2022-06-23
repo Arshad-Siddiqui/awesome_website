@@ -142,8 +142,10 @@ footer p {
     margin: auto 300px;
     display: flex;
     justify-content: space-around;
-    padding: 40px;
+    padding: 35px;
     align-items: center;
+    border-radius: 12px;
+    margin: 30px 200px;
 }
 
 em {
