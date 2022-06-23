@@ -27,7 +27,8 @@ header {
 
 #quote-credit {
     margin-left: 400px;
-    font-weight: 900px;
+    font-weight: bolder;
+    font-size: 23px;
 }
 
 .signup {
@@ -37,6 +38,7 @@ header {
 .logo-text {
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: bolder;
 }
 
 nav {
@@ -59,20 +61,20 @@ a {
 .flex-container {
     display: flex;
     justify-content:center;
-    gap: 40px;
+    gap: 18px;
     
 }
 
 h1 {
     font-size: 38px;
-    font-weight: 900px;
+    font-weight: bolder;
     color: #F9FAF8;
 }
 
 .placeholder {
     background-color: grey;
     color: white;
-    padding-top: 130px;
+    padding:120px 50px 120px;
     margin: 20px 0;
 }
 
